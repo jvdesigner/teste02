@@ -8,7 +8,27 @@
 
  import * as componentes from "./componentes/Menu.js";
 
+
+const btn = document.getElementById('btn');
+
+btn.addEventListener('click',()=>{
+
+    alert('consegui')
+
+
+})
+
+
  
+ 
+
+
+
+ 
+
+ 
+
+
 
  
 
