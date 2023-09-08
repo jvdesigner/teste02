@@ -1,6 +1,16 @@
+ 
+ // Importando
+ 
+ 
+ import * as funcoes from "./funcoes/mostrarUsuarios.js";
 
-import joao from './workspaces/teste02/funcaoGeral';
+ import * as variaveis from "./variaveis/global.js";
 
-alert(joao)
+ import * as componentes from "./componentes/Menu.js";
 
-//
+ 
+
+ 
+
+
+
